@@ -18,13 +18,9 @@ const styles = {
 		borderColor: '#ddd',
 		borderBottomWidth: 0,
 
-		shadowOffset: { width: 0, height: 2 },
-		shadowColor: '#000',
-		shadowOpacity: 0.1,
-		shadowRadius: 2,
-
 		elevation: 5,
 		margin:10,
+		padding: 10,
 	}
 };
 
