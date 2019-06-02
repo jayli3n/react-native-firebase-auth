@@ -39,7 +39,7 @@ class App extends Component {
 	}
 
 	onLogoutButtonPress() {
-
+		firebase.auth().signOut();
 	}
 
 	renderContent() {
