@@ -7,10 +7,11 @@ class App extends Component {
 	render() {
 		return (
 			<View>
+				<Header headerText='Hi' />
 				<Text>An App</Text>
 			</View>
-		)
+		);
 	}
-};
+}
 
 export default App;
